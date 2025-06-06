@@ -28,17 +28,18 @@ This project presents an end-to-end real estate market analysis of the Nashville
 real-estate-market-dashboard/
 ├── README.md
 ├── PowerBI_Report/
-│ └── RealEstateDashboard.pbix
+│   └── RealEstateDashboard.pbix
 ├── SQL/
-│ └── nashville_housing_cleaned.sql
+│   └── nashville_housing_cleaned.sql
 ├── Cleaned_Data/
-│ └── housing_cleaned.csv
+│   └── housing_cleaned.csv
 ├── Screenshots/
-│ ├── executive-summary.png
-│ ├── trends-kpis.png
-│ └── interactive-filtering.png
+│   ├── executive-summary.png
+│   ├── trends-kpis.png
+│   └── interactive-filtering.png
 └── assets/
-└── RealEstateTheme.json
+    └── RealEstateTheme.json
+
 
 ---
 
