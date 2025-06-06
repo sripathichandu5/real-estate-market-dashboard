@@ -1,0 +1,38 @@
+{
+  "name": "Real Estate Pro",
+  "dataColors": [
+    "#005EB8", "#00A3E0", "#2D2D2D", "#FFC72C", "#8F8F8F", "#B8D8EB", "#E4E4E4"
+  ],
+  "background": "#FFFFFF",
+  "foreground": "#2D2D2D",
+  "tableAccent": "#005EB8",
+  "visualStyles": {
+    "*": {
+      "*": {
+        "color": [{ "solid": { "color": "#2D2D2D" } }],
+        "fontSize": [{ "value": 12 }],
+        "fontFamily": [{ "value": "Segoe UI" }]
+      }
+    },
+    "titleText": {
+      "*": {
+        "fontSize": [{ "value": 14 }],
+        "fontFamily": [{ "value": "Segoe UI Semibold" }],
+        "color": [{ "solid": { "color": "#005EB8" } }]
+      }
+    },
+    "card": {
+      "*": {
+        "color": [{ "solid": { "color": "#005EB8" } }],
+        "labelColor": [{ "solid": { "color": "#2D2D2D" } }]
+      }
+    },
+    "slicer": {
+      "*": {
+        "color": [{ "solid": { "color": "#2D2D2D" } }],
+        "fontFamily": [{ "value": "Segoe UI" }],
+        "fontSize": [{ "value": 11 }]
+      }
+    }
+  }
+}
